@@ -1,2 +1,2 @@
-# Capstone-Project-Notebook
-Capstone Project Notebook
+# Coursera_Capstone
+Coursera_Capstone
