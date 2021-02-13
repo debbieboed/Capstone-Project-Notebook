@@ -1,0 +1,13 @@
+# Coursera Capstone Introduction
+
+Business Problem
+
+
+A friend wants to open a business specifically coffee shop in Manhattan. Through the data that we have including, New York data and Foursquare location data, we can help this friends to narrow down what are the neighborhoods that's recommended to open a coffee shop.
+
+There are some steps that we will do throughout the process.
+1. Collecting and cleaning the data.
+2. Narrowing down the data to specific location that we want (in this case we will narrow it down to Manhattan area).
+3. Collecting the Foursquare location data to collect all the business that are open within the Manhattan Area (around 500 yard radius). Through this data we can also see that Coffee Shop is the top category of F&B business that are located around Manhattan Area.
+4. Searching the top 5 venues within each neighborhoods to find which area that we should recommend to our friend.
+5. We then recommend the neighborhoods that has coffee shop as their 1st most common venue in the neighborhoods and we find 9 neighborhoods to recommend to our friend.
